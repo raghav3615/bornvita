@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bornvita"
+version = "0.1.1"
+description = "A package that displays bornvita brainrot content on the entire screen"
+readme = "README.md"
+authors = [
+    { name = "Raghav Dadhich", email = "dadhichraghav896@gmail.com" }
+]
+license = { text = "MIT" }
+dependencies = []
